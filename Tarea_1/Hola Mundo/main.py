@@ -29,3 +29,6 @@ print(type(nombre))
 # Cadena (String)
 miArtistafav = "Lady Gaga"
 print("Mi cantante favorita es: " + miArtistafav)
+
+Condicion = 1 > 3
+print(Condicion)

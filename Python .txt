@@ -39,6 +39,9 @@ podemos concatenar usando el simbolo +
 miArtistafav = "Lady Gaga"  + " " + "Miley Cyrus"
 print("Mi cantante favorita es: " + miArtistafav)
 
+Condicion = 1 > 3
+print(Condicion)
+
 convertir variables en python.
 
 tipo de variable (variable)
