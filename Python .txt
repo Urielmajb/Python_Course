@@ -1,0 +1,45 @@
+Instalación de Python.
+
+- Instalar la versión mas actualiazada https://www.python.org/downloads/
+- Luego descargar e instalar el IDE Pycharm https://www.jetbrains.com/es-es/pycharm/download/#section=windows
+
+- Leccion 01
+
+Mandar Mensaje de consola solo ocupamos:
+
+print ("Hola mundo")
+
+Variables en python
+
+permite almacenar info de manera tempora, ya sea cadena, numero o condicion.
+No te pide indicar el tipo de variable, podemos cambiar ya sea de cadena a numerico.
+
+miVariable = "Hola Mundo"
+print (miVariable)
+
+x = 10
+y = 2
+suma = x + y
+
+print (suma, x, y)
+
+la variable id(variable) nos ayuda a conocer la posicion o direccion de memoria donde se almacena tal variable.
+
+print (id(x))
+print (id(y))
+print (id(suma))
+
+para conocer el tipo de la variable que estamos usando solo declaramos 
+
+type(variable)
+
+podemos concatenar usando el simbolo + 
+
+#Cadena (String)
+miArtistafav = "Lady Gaga"  + " " + "Miley Cyrus"
+print("Mi cantante favorita es: " + miArtistafav)
+
+convertir variables en python.
+
+tipo de variable (variable)
+
