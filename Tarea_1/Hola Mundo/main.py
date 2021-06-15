@@ -27,5 +27,5 @@ print(nombre)
 print (type(nombre))
 
 #Cadena (String)
-miArtistafav = "Lady Gaga"  + " " + "Miley Cyrus"
+miArtistafav = "Lady Gaga"
 print("Mi cantante favorita es: " + miArtistafav)
