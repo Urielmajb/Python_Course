@@ -26,3 +26,6 @@ nombre = 'Urielma Jiron'
 print(nombre)
 print (type(nombre))
 
+#Cadena (String)
+miArtistafav = "Lady Gaga"  + " " + "Miley Cyrus"
+print("Mi cantante favorita es: " + miArtistafav)
