@@ -46,3 +46,14 @@ convertir variables en python.
 
 tipo de variable (variable)
 
+Funcion Input
+
+#Funcion input, procesa la entrada del usuario.
+
+resultado = input("Mi nombre es : ")
+print(resultado)
+print ("Fin del programa")
+
+Nota: Fijarse bien al momento de imprimir resultados con variables numerica, se pone una coma para separarlas.
+
+
