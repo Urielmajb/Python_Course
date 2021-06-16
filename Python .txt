@@ -60,3 +60,13 @@ hay otra manera para imprimir
 
 print (f'Fin del programa:  {variable} '): es una manera mas practica
 
+Incremento con reasignacion  
+
+miVariable = 11
+print(miVariable)
+
+miVariable -= 2 ---> Esta es una manera de incremetar con reasignacion
+print(miVariable)
+
+miVariable += 3
+print(miVariable)
