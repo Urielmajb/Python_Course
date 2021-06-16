@@ -56,4 +56,7 @@ print ("Fin del programa")
 
 Nota: Fijarse bien al momento de imprimir resultados con variables numerica, se pone una coma para separarlas.
 
+hay otra manera para imprimir 
+
+print (f'Fin del programa:  {variable} '): es una manera mas practica
 
