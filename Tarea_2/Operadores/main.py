@@ -6,11 +6,22 @@
 #perimetro = ((alto + ancho) * 2)
 #print(f'El area es: {area}' + f'y el perimetro: {perimetro}')
 
-miVariable = 11
-print(miVariable)
+#Incremento con reasignacion
+#miVariable = 11
+#print(miVariable)
+#miVariable -= 2
+#print(miVariable)
+#miVariable += 3
+#print(miVariable)
 
-miVariable -= 2
-print(miVariable)
+#Operaciones de comparacion
 
-miVariable += 3
-print(miVariable)
+a = int(input('Ingrese el 1er numero'))
+#b= input('Ingrese el 2d0 numero')
+
+if a % 2 == 0:
+    print('El valor de {a} es numero par')
+else:
+    print('El valor de {a} es impar')
+
+

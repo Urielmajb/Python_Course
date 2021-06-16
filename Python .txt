@@ -70,3 +70,23 @@ print(miVariable)
 
 miVariable += 3
 print(miVariable)
+
+Operaciones de comparacion: estos nos permiten saber si dos valores son iguales o distintos
+
+operadores: 
+
+== -> igual 
+!= -> diferente
+> -> mayor
+< -> menor 
+>= -> mayor que
+<= -> menor que 
+
+a = int(input('Ingrese el 1er numero'))
+#b= input('Ingrese el 2d0 numero')
+
+Así se usa un if.
+if a % 2 == 0:
+    print('El valor de {a} es numero par')
+else:
+    print('El valor de {a} es impar')
